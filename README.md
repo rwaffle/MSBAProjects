@@ -31,7 +31,7 @@ All projects conducted during master's program at Gabelli School of Business, Fo
 * Web Analytics BYGB-7978-001 - Twitter and Movie Box Office_RW_KW_YL_XZ
 
 # Mini-Projects
-## R Statisical Programming Projects
+## R Statisical Programming "Projects"
 ### Files
 * Ryan-Waffle-Homework-3
 * Ryan-Waffle-Homework-4
